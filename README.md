@@ -1,6 +1,6 @@
 # first-demo-repo-INFO6150
 
-Harshith Narahari
+My name is Harshith Narahari
 
 Welcome! 
 
